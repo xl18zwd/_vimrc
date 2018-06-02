@@ -6,6 +6,7 @@ Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
 Plug 'kien/ctrlp.vim'
 Plug 'mattn/emmet-vim'
 Plug 'jonathanfilip/vim-lucius'
+Plug 'leafgarland/typescript-vim'
 
 Plug 'MarcWeber/vim-addon-mw-utils'
 Plug 'tomtom/tlib_vim'
@@ -25,7 +26,7 @@ filetype on
 syntax on
 
 colorscheme lucius 
-LuciusBlack
+LuciusDarkLowContrast
 "colorscheme simplifysimplify-dark 
 
 "设置编码格式
@@ -65,7 +66,7 @@ nnoremap <silent> <F8> : call GetCurFilePath()<CR>
 map <F9> :e E:\Program Files\Vim\_vimrc<CR>
 
 "trunk
-cd E:\project
+"cd E:\project
 
 "保存文件
 map <Space> :w<CR>
