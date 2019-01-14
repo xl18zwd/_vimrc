@@ -8,6 +8,7 @@ Plug 'mattn/emmet-vim'
 Plug 'jonathanfilip/vim-lucius'
 Plug 'leafgarland/typescript-vim', { 'for': 'clojure' }
 Plug 'dkprice/vim-easygrep'
+Plug 'aperezdc/vim-template'
 
 Plug 'MarcWeber/vim-addon-mw-utils'
 Plug 'tomtom/tlib_vim'
