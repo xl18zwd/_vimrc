@@ -27,20 +27,19 @@ set laststatus=2
 filetype on
 syntax on
 
-colorscheme lucius 
+colorscheme lucius
 LuciusDarkLowContrast
-"colorscheme simplifysimplify-dark 
+"colorscheme simplifysimplify-dark
 
 "设置编码格式
-set encoding=utf-8  
-set termencoding=utf-8  
-set fileencoding=chinese 
-set fileencodings=ucs-bom,utf-8,chinese    
-set langmenu=zh_CN.utf-8  
-source $VIMRUNTIME/delmenu.vim  
-source $VIMRUNTIME/menu.vim  
-language messages zh_cn.utf-8   
-language messages zh_cn.utf-8 
+set encoding=utf-8
+set termencoding=utf-8
+set fileencoding=utf-8
+set fileencodings=ucs-bom,utf-8,chinese
+set langmenu=zh_CN.utf-8
+source $VIMRUNTIME/delmenu.vim
+source $VIMRUNTIME/menu.vim
+language messages zh_cn.utf-8
 
 "关闭兼容模式
 set nocompatible
