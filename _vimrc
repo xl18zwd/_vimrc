@@ -1,3 +1,7 @@
+"pythonœµÕ≥≈‰÷√
+"set pythonthreedll=c:\\python39\\python39.dll
+"set pythonthreehome=c:\\python39
+
 " Plugins will be downloaded under the specified directory.
 call plug#begin('~/.vim/plugged')
 
